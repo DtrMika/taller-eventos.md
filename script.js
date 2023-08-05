@@ -15,11 +15,8 @@ btn.addEventListener("click", () => {
   const saludo = "Hola, como estas?! Soy Mikail!";
   mensaje.innerHTML = saludo;
   mensaje.classList.toggle("mensaje");
-});
-
-function alerta() {
   alert("Hola!");
-}
+});
 
 btn2.addEventListener("click", () => {
   const alt = "Hola! Soy el div";
