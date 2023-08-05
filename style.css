@@ -1,7 +1,21 @@
-button{
+.container1{
+    padding: 5px;
+    background-color: rgba(29, 170, 16, 0.6);
+}
+.btns{
     padding: 10px;
-    
+    margin: 5px;
+    background-color: rgb(233,23, 22, 0.9);
+    box-shadow: 0 0 12px rgb(23,23,123, 0.6);
+    text-align: center;
+
 }
 .mensaje{
     display: none;
+}
+p{
+    color: bisque;
+    padding: 12px;
+    display: inline-block;
+    text-align: center;
 }
